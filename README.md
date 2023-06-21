@@ -37,7 +37,8 @@ Project Demo - https://www.youtube.com/watch?v=GUyZ-SVBgLo
 
 ## SCREENSHOTS
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/033e5bc6-bc7e-4782-891f-6373624dc44d/Untitled.png)
+![image](https://github.com/A21126510007-VASANTH/frt-team-project/assets/132591723/1621c4e5-59e8-47dc-8b1b-c84d75e83e21)
+
 
 ## ABOUT US
 
